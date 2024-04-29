@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "e1a18d0a5474f623",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ae6436ff3ce049f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "087d75c86c22f991",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettels/exemplo-home.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e42e3ca756259ae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "219d064fc6a4f8dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14fef304d552b167",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a6365b9417aa7213",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cc7ae3608b23c7a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292.5
+  },
+  "right": {
+    "id": "cd6042ac3dc52935",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a88b4dc503b046d",
+        "type": "tabs",
+        "dimension": 40.72356215213358,
+        "children": [
+          {
+            "id": "3cb009ebd7213059",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc55e414c0e10d8d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9567e5e24380a963",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettels/exemplo-home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f1abed32f1a2a5f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettels/exemplo-home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1d93d380a031e08",
+        "type": "tabs",
+        "dimension": 59.27643784786641,
+        "children": [
+          {
+            "id": "8dceb5a50e0f41f5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "6818b4255bdde4b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettels/exemplo-home.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:Kanban: Criar um novo quadro": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "14fef304d552b167",
+  "lastOpenFiles": [
+    "Sem título",
+    "Periodic/2024/04-abril/28-04-2024-domingo.md",
+    "Zettels/exemplo-home.md",
+    "Periodic/2024/04-abril",
+    "Periodic/2024",
+    "Kanban-teste.md",
+    "Projects/Kanban-teste.md",
+    "Zettels/Kanban sem título.md",
+    "Template/Kanban-Template.md",
+    "Zettels/ideias/teste.md",
+    "Zettels/Plugins/QuickAdd.md",
+    "Zettels/canvas exemplo.canvas",
+    "Zettels/Plugins/Editing Toolbar.md",
+    "Assets/Images/text-tool.png",
+    "Zettels/Sem título.md",
+    "Zettels/Plugins/Templater.md",
+    "Zettels/Plugins/Tasks.md",
+    "Zettels/Plugins/Style Settings.md",
+    "Zettels/Plugins/Smart Typography.md",
+    "Zettels/Plugins/Dataview.md",
+    "Zettels/Plugins/Iconize.md",
+    "Zettels/Plugins/Reading Time.md",
+    "Zettels/Plugins/Periodic Notes.md",
+    "Zettels/Plugins/Paste URL into selection.md",
+    "Zettels/Plugins/Calendar.md",
+    "Zettels/Plugins/Kanban.md",
+    "Zettels/Plugins/Auto Note Mover.md",
+    "Zettels/Plugins/File Explorer Note Count.md",
+    "Zettels/Plugins/Excalidraw.md",
+    "Excalidraw/Drawing 28-04-2024.excalidraw.md",
+    "Assets/Images/botao.png",
+    "Assets/Images/auto.png",
+    "Zettels/Plugins",
+    "Zettels/ideias",
+    "Periodic/Daily",
+    "Assets/Images",
+    "Zettels",
+    "Projects",
+    "Template",
+    "Assets",
+    "📛 Awesome Badges - DEV Community/hyperledger-2F3134_3Fstyle_3Dfor-the-badge_26logo_3Dhyperledger_26logoColor_3Dwhite.png",
+    "📛 Awesome Badges - DEV Community/Editor_2520Config-E0EFEF_3Fstyle_3Dfor-the-badge_26logo_3Deditorconfig_26logoColor_3D000.png",
+    "📛 Awesome Badges - DEV Community/Ask_2520me-anything-1abc9c.png"
+  ]
+}

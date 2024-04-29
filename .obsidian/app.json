@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "showInlineTitle": true,
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettels",
+  "attachmentFolderPath": "Assets",
+  "showUnsupportedFiles": false
+}

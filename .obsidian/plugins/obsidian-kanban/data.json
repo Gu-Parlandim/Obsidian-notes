@@ -1,0 +1,13 @@
+{
+  "new-note-folder": "Projects",
+  "tag-colors": [
+    {
+      "tagKey": "ideias",
+      "color": "rgba(255, 255, 255, 1)",
+      "backgroundColor": "rgba(255, 0, 0, 0.1)"
+    }
+  ],
+  "hide-tags-in-title": true,
+  "new-note-template": "Template/Kanban-Template.md",
+  "new-card-insertion-method": "prepend"
+}
